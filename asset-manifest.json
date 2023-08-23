@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/anuragdaksh7.github.io/task-manager/static/css/main.e6c13ad2.css",
-    "main.js": "/anuragdaksh7.github.io/task-manager/static/js/main.acc1cc2d.js",
-    "static/js/787.25a4f316.chunk.js": "/anuragdaksh7.github.io/task-manager/static/js/787.25a4f316.chunk.js",
-    "index.html": "/anuragdaksh7.github.io/task-manager/index.html",
-    "main.e6c13ad2.css.map": "/anuragdaksh7.github.io/task-manager/static/css/main.e6c13ad2.css.map",
-    "main.acc1cc2d.js.map": "/anuragdaksh7.github.io/task-manager/static/js/main.acc1cc2d.js.map",
-    "787.25a4f316.chunk.js.map": "/anuragdaksh7.github.io/task-manager/static/js/787.25a4f316.chunk.js.map"
+    "main.css": "/todo-in-js/static/css/main.e6c13ad2.css",
+    "main.js": "/todo-in-js/static/js/main.e0c83c32.js",
+    "static/js/787.25a4f316.chunk.js": "/todo-in-js/static/js/787.25a4f316.chunk.js",
+    "index.html": "/todo-in-js/index.html",
+    "main.e6c13ad2.css.map": "/todo-in-js/static/css/main.e6c13ad2.css.map",
+    "main.e0c83c32.js.map": "/todo-in-js/static/js/main.e0c83c32.js.map",
+    "787.25a4f316.chunk.js.map": "/todo-in-js/static/js/787.25a4f316.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.acc1cc2d.js"
+    "static/js/main.e0c83c32.js"
   ]
 }
